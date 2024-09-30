@@ -5,7 +5,7 @@
 
 ## Tecnologias Ultilizadas
 
-HTML5, CSS3, JAVASCRIPT, VERCEL, GIT E GITHUB
+HTML5, CSS3, VERCEL, GIT E GITHUB
 
 ## Funcionalidade
  - esse app foi desenvolvido para consulta a previsão do tempo em cada cidade do pais e do mundo.
