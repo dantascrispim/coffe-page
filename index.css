@@ -238,6 +238,7 @@ section {
     text-align: center;
     background: var(--black);
     max-width: 100%;
+    border-top: var(--main-color);
 }
 
 .footer .share {
