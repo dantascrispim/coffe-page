@@ -8,7 +8,7 @@
 HTML5, CSS3, VERCEL, GIT E GITHUB
 
 ## Funcionalidade
- - esse app foi desenvolvido para consulta a previsão do tempo em cada cidade do pais e do mundo.
+ - esse app foi desenvolvido para divulgar para seu clientes seu negocio em um ambiente agradável!.
  - interface intuitiva agradável
  - projeto responsivo para diversas telas
 
