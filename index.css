@@ -252,6 +252,8 @@ section {
 .footer .share img:hover {
     width: 3.5rem;}
 
-
+.foo {
+    text-align: center;
+}
 
 
